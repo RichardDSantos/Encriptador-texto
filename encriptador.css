@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+main {
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    background-color: rgba(23, 23, 197, 0.705);
+    width: 130px;
+    height: 30px;
+    border-radius: 3px;
+    font-size: 16px;
+    font-weight: bold;
+    
+
+}
